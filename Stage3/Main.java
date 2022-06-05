@@ -5,5 +5,6 @@ public class Main {
     public static void main(String[] args) {
         Bank.chooseAct();
         Connect.connect();
+        Connect.createTable();
     }
 }
